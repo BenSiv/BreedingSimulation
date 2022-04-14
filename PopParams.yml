@@ -1,0 +1,8 @@
+number_of_F2s: 400
+chromosome_length: 1.0e6
+number_of_markers: 200
+edge_portion: 0.2
+max_recombination: 30
+number_of_hotspots: 30
+hotspots_diffusion: 0.2
+
